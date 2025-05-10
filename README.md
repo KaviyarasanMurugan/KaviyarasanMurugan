@@ -1,5 +1,6 @@
 # 💫 About Me:
-"Welcome to my GitHub profile! I'm a Java developer with a passion for building scalable, high-performance applications. I specialize in backend development, microservices, and cloud computing. Check out my projects to see what I'm working on!"Welcome to my GitHub profile! I'm a Java developer with a passion for building scalable, high-performance applications. I specialize in backend development, microservices, and cloud computing. Check out my projects to see what I'm working on!"
+"Welcome to my GitHub profile! Aspiring Java Backend Developer with over 2 years of experience in client-facing roles and a strong technical foundation in Java, Spring Boot, and microservices. Successfully transitioned into backend development through rigorous training and hands-on project execution. Certified in Spring Boot and Microservices from Ashok IT and Durga Software Solutions, with real-world experience in building distributed systems, implementing JWT-based security, and deploying applications to AWS.
+
 
 
 ## 🌐 Socials:
